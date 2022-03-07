@@ -1,0 +1,3 @@
+sudo
+sudo bash
+su
